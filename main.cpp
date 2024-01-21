@@ -1,3 +1,4 @@
+// Ömer Çağrı Sarıgöl 2312721005 Bir milyoncu envanter takip sistemi
 #include <iostream>
 #include <conio.h>
 #include <fstream>
